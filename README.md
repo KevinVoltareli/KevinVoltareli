@@ -1,7 +1,7 @@
 ## Olá, eu sou o Kevin!
 
 - 🔭 Estou em busca de uma recolocação profissional na área de tecnologia.
-- 🌱 Atualmente estou aprendendo stacks de backend, mais precisamente no momento PHP7.
+- 🌱 Atualmente estou aprendendo wordpress.
 
 <div align="center">
   <a href="https://github.com/kevinvoltareli">
