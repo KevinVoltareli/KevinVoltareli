@@ -1,7 +1,7 @@
 ## Olá, eu sou o Kevin!
 
 - 🔭 Estou em busca de uma recolocação profissional na área de tecnologia.
-- 🌱 Atualmente estou aprendendo wordpress.
+- 🌱 Atualmente estou estudando AJAX.
 
 <div align="center">
   <a href="https://github.com/kevinvoltareli">
