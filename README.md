@@ -1,7 +1,7 @@
 ## Olá, eu sou o Kevin!
 
 - 🔭 Estou em busca de uma recolocação profissional na área de tecnologia.
-- 🌱 Atualmente estou estudando AJAX.
+- 🌱 Atualmente estou estudando PHP com PDO em MySQL e Stack MERN.
 
 <div align="center">
   <a href="https://github.com/kevinvoltareli">
