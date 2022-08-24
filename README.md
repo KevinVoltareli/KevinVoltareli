@@ -1,7 +1,7 @@
 ## Olá, eu sou o Kevin!
 
-- 🔭 Estou em busca de uma recolocação profissional na área de tecnologia.
-- 🌱 Atualmente estou estudando PHP com PDO em MySQL e Stack MERN.
+- 🔭 Atualmente trabalho como desenvolvedor web, utilizando php, mysql, firebird, js e react.
+- 🌱 Atualmente estou estudando ReactJs.
 
 <div align="center">
   <a href="https://github.com/kevinvoltareli">
