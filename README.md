@@ -1,7 +1,10 @@
 ## Olá, eu sou o Kevin!
 
-- 🔭 Atualmente trabalho como desenvolvedor web, utilizando php, mysql, firebird, js e react.
-- 🌱 Atualmente estou estudando ReactJs.
+- 🔭 Dev full stack;
+- 🤖 ReactJs/NextJs, NodeJs/NestJs, PHP, React Native, Kotlin.
+- 🌱 Atualmente estou estudando Rust.
+- 🛸 Graduação em Análise e Desenvolvimento de Sistemas
+- 🖖 Pós graduado em Engenharia de Software.
 
 <div align="center">
   <a href="https://github.com/kevinvoltareli">
@@ -10,13 +13,7 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="right" src="https://i.picasion.com/pic91/7f5ed60337bbdbff9fc6c18cc9e14c9f.gif"  height="150" style="border-radius:50px;" />
+ 
     
 </div>
   
